@@ -1,0 +1,46 @@
+Product ID,Product Name,Category,Price,Stock Quantity
+1001,Laptop,Electronics,1200,50
+1002,Smartphone,Electronics,800,100
+1003,Headphones,Electronics,100,200
+1004,Desk Chair,Furniture,150,75
+1005,Desk Lamp,Home & Office,30,150
+1006,Bluetooth Speaker,Electronics,80,120
+1007,Desk Organizer,Home & Office,20,100
+1008,Coffee Maker,Appliances,50,80
+1009,Toaster,Appliances,40,90
+1010,Kitchen Knife Set,Kitchen & Dining,50,60
+1011,Backpack,Bags & Luggage,60,200
+1012,Watch,Fashion,100,150
+1013,Sneakers,Fashion,80,100
+1014,Dress,Fashion,70,120
+1015,Jeans,Fashion,60,130
+1016,Desk,Home & Office,200,40
+1017,Printer,Electronics,150,70
+1018,Monitor,Electronics,250,60
+1019,Tablet,Electronics,300,80
+1020,Desk Calendar,Home & Office,10,150
+1021,Water Bottle,Home & Kitchen,15,200
+1022,Blender,Appliances,70,100
+1023,Rice Cooker,Appliances,80,90
+1024,Microwave Oven,Appliances,120,70
+1025,Comforter,Bedding,50,80
+1026,Pillow,Bedding,20,150
+1027,Throw Blanket,Home & Kitchen,30,100
+1028,Hand Vacuum,Appliances,50,80
+1029,Vacuum Cleaner,Appliances,150,60
+1030,Laundry Basket,Home & Kitchen,25,120
+1031,Running Shoes,Fitness & Sports,100,100
+1032,Dumbbell Set,Fitness & Sports,150,80
+1033,Yoga Mat,Fitness & Sports,30,150
+1034,Jump Rope,Fitness & Sports,15,200
+1035,Sports Water Bottle,Fitness & Sports,20,250
+1036,Baseball Cap,Fitness & Sports,20,150
+1037,Sunglasses,Fashion,50,100
+1038,Handbag,Fashion,80,120
+1039,Wallet,Fashion,40,180
+1040,Earbuds,Electronics,70,150
+1041,Keyboard,Electronics,40,100
+1042,Mouse,Electronics,20,200
+1043,External Hard Drive,Electronics,80,120
+1044,USB Flash Drive,Electronics,10,250
+1045,Portable Charger,Electronics,30,150
